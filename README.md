@@ -42,8 +42,8 @@ _Contact Number: +65 - 8186 0115_
 ## Job Profile:
 
 ## Current Organization: 
-**Organization	:** Comtel Solutions & Ricoh (Singapore) PTE Ltd \
-**Designation	:** UNIX Engineer.
+**Organization	:** *Comtel Solutions & Ricoh (Singapore) PTE Ltd* \
+**Designation	:** *UNIX Engineer*.
 
 *	Worked in container-based OpenPaaS technologies like Docker, Kubernetes and Redhat OpenShift.
 *	Build and deployed Docker container for implementing microservice architecture from monolithic architecture.
@@ -57,8 +57,8 @@ _Contact Number: +65 - 8186 0115_
  
 ## Previous Organization:
 
-**Organization	:** Infinite computer solutions.\
-**Designation	:** System Administrator.
+**Organization	:** *Infinite computer solutions.*\
+**Designation	:** *System Administrator.*
 
 *	Involved in migrating legacy servers to Private cloud setup
 *	Planned and Achieved in migrating around 400+ AIX servers from 6.1 to 7.1 without any major business impacts.
@@ -73,8 +73,8 @@ _Contact Number: +65 - 8186 0115_
 *	Involved Unix patching/upgrades including AIX, Linux and Solaris
 
 
-**Organization	:** Tech Mahindra.\
-**Designation	:** Support Lead.
+**Organization	:** *Tech Mahindra.*\
+**Designation	:** *Support Lead.*
 
 *	Managing a multiple flavor in multiple environment to migrate the Monitoring tool. 
 *	Coordinating with a Nagios Team for installation.
@@ -84,8 +84,8 @@ _Contact Number: +65 - 8186 0115_
 *	Coordinating with the Team to configuring and deploying Nagios Monitoring tool.
 
 
-**Organization	:** Hewlett Packard Enterprise Services.\
-**Designation	:** ITO Service Delivery consultant level II. 
+**Organization	:** *Hewlett Packard Enterprise Services.*\
+**Designation	:** *ITO Service Delivery consultant level II.* 
 
 *	Involved in AIX migrations using nimadm in SAN boot environment
 *	Creating LPARs using HMC, and configuring resources, managing NPIV
@@ -99,9 +99,9 @@ _Contact Number: +65 - 8186 0115_
 *	Involved in SAN switch migration projects and completed successfully
 
 
-**Organization	:** Chemtrols InfoTech PVT Ltd, Mumbai.\
-**Designation	:** AIX Administrator.\
-**Client		:** SOVTECH Data Center, Andaman & Nicobar State IT Administration.\
+**Organization	:** *Chemtrols InfoTech PVT Ltd, Mumbai.*\
+**Designation	:** *AIX Administrator.*\
+**Client		:** *SOVTECH Data Center, Andaman & Nicobar State IT Administration.*\
 
 *	Managing data center activities.
 *	Working with Field engineer for hardware related activities.
@@ -121,8 +121,8 @@ _Contact Number: +65 - 8186 0115_
 *	ML/ TL, Efix, Service packs Installation.
 
 
-**Organization	:** Link Ware Technologies PVT Ltd, Chennai.\
-**Designation	:** AIX System Administrator. \
+**Organization	:** *Link Ware Technologies PVT Ltd, Chennai.*\
+**Designation	:** *AIX System Administrator.*\
 
 *	Creating User, Group home directories and password administering.
 *	Creating and maintaining User Administration.
@@ -144,8 +144,8 @@ _Contact Number: +65 - 8186 0115_
 
 ## Personal Profile:
 
-**Father’s Name	:**    A.Vaiyapuri \
-**Date of Birth	:**      03.09.1987 \
-**Passport	:**      Valid till 2028 \
-**Visa		:**    Valid till 2021 \
+**Father’s Name	:**    *A.Vaiyapuri* \
+**Date of Birth	:**      *03.09.1987* \
+**Passport	:**      *Valid till 2028* \
+**Visa		:**    *Valid till 2022* \
 **Resident Address	:**     BLK 104A,  #13-45, Punggol Edgefield plains, Punggol. Singapore - 821104
