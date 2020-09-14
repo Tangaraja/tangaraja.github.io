@@ -148,4 +148,4 @@ _Contact Number: +65 - 8186 0115_
 **Date of Birth	:**      *03.09.1987* \
 **Passport	:**      *Valid till 2028* \
 **Visa		:**    *Valid till 2022* \
-**Resident Address	:**     BLK 104A,  #13-45, Punggol Edgefield plains, Punggol. Singapore - 821104
+**Resident Address	:**     *BLK 104A,  #13-45, Punggol Edgefield plains, Punggol. Singapore - 821104*
