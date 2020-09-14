@@ -1,6 +1,6 @@
 # THANGARAJA VAIYAPURI									 
-_Email: vaiyapuri.thangaraja@gmail.com_                          
-_Contact Number: +65 - 8186 0115_
+_**Email**: vaiyapuri.thangaraja@gmail.com_                          
+_**Contact** Number: +65 - 8186 0115_
      									
 
 ## Experience Summary:
