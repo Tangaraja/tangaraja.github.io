@@ -21,10 +21,10 @@ _Contact Number: +65 - 8186 0115_
 *	Worked as AIX Administrator in Link Ware Technologies PVT Ltd, Chennai, From July 2010 – Aug 2012
 
 ## Certification:
-*	_Pursuing **Red hat**, *Openshift* Administrator_ 
-*	**The Linux Foundation CKA**: Certified *Kubernetes* Administrator
-*	**Red hat**, *Ansible* Certified.
-*	**IBM** Certified System Administrator *AIX 6.1* Administration
+*	_Pursuing **Red hat**, *Openshift* Administrator._ 
+*	_**The Linux Foundation CKA**: Certified *Kubernetes* Administrator._
+*	_**Red hat**, *Ansible* Certified._
+*	_**IBM** Certified System Administrator *AIX 6.1* Administration._
 
 ## Technical Skills:
 * Cloud – Redhat Openshift, Docker & Kuberneties. 
@@ -37,25 +37,25 @@ _Contact Number: +65 - 8186 0115_
 
 Educational Qualification:
 
-	B.E, Electronics and Communication Engineering, Trichy Engineering College, Trichy, Anna University, Tamilnadu, Year of passing-2009.
+*	B.E, *Electronics and Communication Engineering*, Trichy Engineering College, Trichy, Anna University, Tamilnadu, Year of passing-2009.
 
-Job Profile:
+## Job Profile:
 
-Current Organization:
-Organization	: Comtel Solutions & Ricoh (Singapore) PTE Ltd 
-Designation	: UNIX Engineer.
+## Current Organization:
+**Organization	:** Comtel Solutions & Ricoh (Singapore) PTE Ltd 
+**Designation	:** UNIX Engineer.
 
-	Worked in container-based OpenPaaS technologies like Docker, Kubernetes and Redhat OpenShift.
-	Build and deployed Docker container for implementing microservice architecture from monolithic architecture.
-	Worked in OpenShift for creating new Projects, Services for load balancing and adding them to Routes to be accessible from outside, troubleshooting pods through ssh and logs, modification of Buildconfigs, templates, Image streams, etc
-	Policy creation and patching through HPSA tool.
-	Involved in migrating legacy servers to Private cloud setup
-	Involved Unix patching/upgrades including AIX, Linux and Solaris
-	Involved in various automation efforts using Shell scrips
-	Automated BAU tasks like, OS patching, filesystem management
+*	Worked in container-based OpenPaaS technologies like Docker, Kubernetes and Redhat OpenShift.
+*	Build and deployed Docker container for implementing microservice architecture from monolithic architecture.
+*	Worked in OpenShift for creating new Projects, Services for load balancing and adding them to Routes to be accessible from outside, troubleshooting pods through ssh and logs, modification of Buildconfigs, templates, Image streams, etc
+*	Policy creation and patching through HPSA tool.
+*	Involved in migrating legacy servers to Private cloud setup
+*	Involved Unix patching/upgrades including AIX, Linux and Solaris
+*	Involved in various automation efforts using Shell scrips
+*	Automated BAU tasks like, OS patching, filesystem management
 
  
-Previous Organization:
+## Previous Organization:
 Organization	: Infinite computer solutions.
 Designation	: System Administrator. 
 
