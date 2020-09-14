@@ -35,14 +35,15 @@ _Contact Number: +65 - 8186 0115_
 * Deployment Tool – Jenkins
 
 
-Educational Qualification:
+## Educational Qualification:
 
 *	B.E, *Electronics and Communication Engineering*, Trichy Engineering College, Trichy, Anna University, Tamilnadu, Year of passing-2009.
 
 ## Job Profile:
 
 ## Current Organization:
-**Organization	:** Comtel Solutions & Ricoh (Singapore) PTE Ltd 
+**Organization	:** Comtel Solutions & Ricoh (Singapore) PTE Ltd
+
 **Designation	:** UNIX Engineer.
 
 *	Worked in container-based OpenPaaS technologies like Docker, Kubernetes and Redhat OpenShift.
@@ -54,100 +55,113 @@ Educational Qualification:
 *	Involved in various automation efforts using Shell scrips
 *	Automated BAU tasks like, OS patching, filesystem management
 
+
  
 ## Previous Organization:
-Organization	: Infinite computer solutions.
-Designation	: System Administrator. 
 
-	Involved in migrating legacy servers to Private cloud setup
-	Planned and Achieved in migrating around 400+ AIX servers from 6.1 to 7.1 without any major business impacts.
-	Contributed ideas and involved in planning of data center migration projects
-	Involved in planning and designing Private cloud using IBM power virtualization concepts ( VIO, powerVC, PowerVM)
-	Achieved several AIX physical servers to virtual server migrations
-	Involved in planning and execution of 600 AIX power7 to power8 migrations
-	Handed IBM p series frame setup end to end
-	Involved in many SAN migrations on UNIX servers (IBM SAN to EMC & EMC SAN to HDS SAN )
-	Involved in various automation efforts using Shell scrips
-	Automated BAU tasks like, OS patching, filesystem management
-	Involved Unix patching/upgrades including AIX, Linux and Solaris
+**Organization	:** Infinite computer solutions.
 
+**Designation	:** System Administrator.
 
-Organization	: Tech Mahindra.
-Designation	: Support Lead.
-
-	Managing a multiple flavor in multiple environment to migrate the Monitoring tool. 
-	Coordinating with a Nagios Team for installation.
-	Performing the data collection for the Nagios installation.
-	Installing the required packages to configure the Nagios tool in Linux.
-	Coordinating with management for requirement. 
-	Coordinating with the Team to configuring and deploying Nagios Monitoring tool.
+*	Involved in migrating legacy servers to Private cloud setup
+*	Planned and Achieved in migrating around 400+ AIX servers from 6.1 to 7.1 without any major business impacts.
+*	Contributed ideas and involved in planning of data center migration projects
+*	Involved in planning and designing Private cloud using IBM power virtualization concepts ( VIO, powerVC, PowerVM)
+*	Achieved several AIX physical servers to virtual server migrations
+*	Involved in planning and execution of 600 AIX power7 to power8 migrations
+*	Handed IBM p series frame setup end to end
+*	Involved in many SAN migrations on UNIX servers (IBM SAN to EMC & EMC SAN to HDS SAN )
+*	Involved in various automation efforts using Shell scrips
+*	Automated BAU tasks like, OS patching, filesystem management
+*	Involved Unix patching/upgrades including AIX, Linux and Solaris
 
 
-Organization	: Hewlett Packard Enterprise Services.
-Designation	: ITO Service Delivery consultant level II. 
 
-	Involved in AIX migrations using nimadm in SAN boot environment
-	Creating LPARs using HMC, and configuring resources, managing NPIV
-	Involved in migrating a LPAR from P570 to P795
-	Worked on HMC, configuration of LPAR, DLPAR management
-	Installing and configuring VIO servers Assigning the Disk & Ethernet adapter to client
-	Configuring SEA and SEA failovers on dual VIOs
-	Performing LVM activities on Linux
-	Performing cluster activities on HACMP and VCS
-	Upgrading AIX, LINUX and Solaris Systems
-	Involved in SAN switch migration projects and completed successfully
+**Organization	:** Tech Mahindra.
 
-Organization	: Chemtrols InfoTech PVT Ltd, Mumbai.
-Designation	: AIX Administrator.
-Client		: SOVTECH Data Center, Andaman & Nicobar State IT Administration.
+**Designation	:** Support Lead.
 
-	Managing data center activities.
-	Working with Field engineer for hardware related activities.
-	Performing daily health check over the data center Farm area for any amber light.
-	Raising hardware case for any Hardware related issue with vendor.
-	Installing Hardware in the data center farm area with Field Engineer.
-	Connecting Frames to the HMC and powering on the Frames
-	Configuring VIO server and VIO clients.
-	Device Mapping to VIO client.
-	Configuration SEA adapter.
-	DLPAR activity on resources.
-	Backup and Restore through NIM server.
-	Involved in activities like Migration, TL up-gradation.
-	Configuring and Managing Devices.
-	Alternate disk installation for reducing the down time.
-	MKSYSB backup using NIM server.
-	ML/ TL, Efix, Service packs Installation.
-
-Organization	: Link Ware Technologies PVT Ltd, Chennai.
-Designation	: AIX System Administrator. 
-
-	Creating User, Group home directories and password administering.
-	Creating and maintaining User Administration.
-	Increase/decrease the file system size.
-	Creating Logical Volumes, File Systems, and Mirroring of LV’s.
-	Managing File Systems using LVM.
-	Creating Paging space and Managing.
-	ML/TL, Efix, service packs Installation.
-	Managing system services.
-	Device Management.
-	Logging call with IBM for Hardware replacement.
-	Monitoring and troubleshooting System Performance.
-	Scheduling Jobs – Using crontab.
-	Configuring Ether channel.
-	Creating snap and sending to IBM for support
-	Configuring Dump devices.
+*	Managing a multiple flavor in multiple environment to migrate the Monitoring tool. 
+*	Coordinating with a Nagios Team for installation.
+*	Performing the data collection for the Nagios installation.
+*	Installing the required packages to configure the Nagios tool in Linux.
+*	Coordinating with management for requirement. 
+*	Coordinating with the Team to configuring and deploying Nagios Monitoring tool.
 
 
-Personal Profile:
 
-Father’s Name	:      A. Vaiyapuri
-Date of Birth		:      03.09.1987
-Passport		:      Valid till 2028
-Visa		:      Valid till 2021
-Resident Address		:      BLK 104A, #13-45,
-			Punggol Edgefield plains,
-			Punggol.
-			Singapore - 821104
+**Organization	:** Hewlett Packard Enterprise Services.
+
+**Designation	:** ITO Service Delivery consultant level II. 
+
+*	Involved in AIX migrations using nimadm in SAN boot environment
+*	Creating LPARs using HMC, and configuring resources, managing NPIV
+*	Involved in migrating a LPAR from P570 to P795
+*	Worked on HMC, configuration of LPAR, DLPAR management
+*	Installing and configuring VIO servers Assigning the Disk & Ethernet adapter to client
+*	Configuring SEA and SEA failovers on dual VIOs
+*	Performing LVM activities on Linux
+*	Performing cluster activities on HACMP and VCS
+*	Upgrading AIX, LINUX and Solaris Systems
+*	Involved in SAN switch migration projects and completed successfully
+
+
+**Organization	:** Chemtrols InfoTech PVT Ltd, Mumbai.
+
+**Designation	:** AIX Administrator.
+
+**Client		:** SOVTECH Data Center, Andaman & Nicobar State IT Administration.
+
+*	Managing data center activities.
+*	Working with Field engineer for hardware related activities.
+*	Performing daily health check over the data center Farm area for any amber light.
+*	Raising hardware case for any Hardware related issue with vendor.
+*	Installing Hardware in the data center farm area with Field Engineer.
+*	Connecting Frames to the HMC and powering on the Frames
+*	Configuring VIO server and VIO clients.
+*	Device Mapping to VIO client.
+*	Configuration SEA adapter.
+*	DLPAR activity on resources.
+*	Backup and Restore through NIM server.
+*	Involved in activities like Migration, TL up-gradation.
+*	Configuring and Managing Devices.
+*	Alternate disk installation for reducing the down time.
+*	MKSYSB backup using NIM server.
+*	ML/ TL, Efix, Service packs Installation.
+
+
+**Organization	:** Link Ware Technologies PVT Ltd, Chennai.
+
+**Designation	:** AIX System Administrator. 
+
+*	Creating User, Group home directories and password administering.
+*	Creating and maintaining User Administration.
+*	Increase/decrease the file system size.
+*	Creating Logical Volumes, File Systems, and Mirroring of LV’s.
+*	Managing File Systems using LVM.
+*	Creating Paging space and Managing.
+*	ML/TL, Efix, service packs Installation.
+*	Managing system services.
+*	Device Management.
+*	Logging call with IBM for Hardware replacement.
+*	Monitoring and troubleshooting System Performance.
+*	Scheduling Jobs – Using crontab.
+*	Configuring Ether channel.
+*	Creating snap and sending to IBM for support
+*	Configuring Dump devices.
+
+
+
+## Personal Profile:
+
+**Father’s Name	:**      A. Vaiyapuri
+**Date of Birth	:**      03.09.1987
+**Passport	:**      Valid till 2028
+**Visa		:**    Valid till 2021
+**Resident Address	:**     BLK 104A, #13-45,
+							Punggol Edgefield plains,
+							Punggol.
+							Singapore - 821104
 
 
  
