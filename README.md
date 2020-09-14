@@ -2,7 +2,6 @@
 _**Email**: vaiyapuri.thangaraja@gmail.com_                          
 _**Contact** Number: +65 - 8186 0115_
      									
-
 ## Experience Summary:
 * 	I have 10 years of IT experience in administration and Support activities.
 * 	Application Deployment and testing using Ansible 
@@ -21,7 +20,7 @@ _**Contact** Number: +65 - 8186 0115_
 *	Worked as AIX Administrator in Link Ware Technologies PVT Ltd, Chennai, From July 2010 – Aug 2012
 
 ## Certification:
-*	_Pursuing **Red hat**, *Openshift* Administrator._ 
+*	_Pursuing **Red hat**, _Openshift_ Administrator._ 
 *	_**The Linux Foundation CKA**: Certified *Kubernetes* Administrator._
 *	_**Red hat**, *Ansible* Certified._
 *	_**IBM** Certified System Administrator *AIX 6.1* Administration._
