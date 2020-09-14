@@ -154,14 +154,8 @@ _Contact Number: +65 - 8186 0115_
 
 ## Personal Profile:
 
-**Father’s Name	:**      A. Vaiyapuri
-**Date of Birth	:**      03.09.1987
-**Passport	:**      Valid till 2028
-**Visa		:**    Valid till 2021
-**Resident Address	:**     BLK 104A, #13-45,
-							Punggol Edgefield plains,
-							Punggol.
-							Singapore - 821104
-
-
- 
+**Father’s Name	:**    A.Vaiyapuri \
+**Date of Birth	:**      03.09.1987 \
+**Passport	:**      Valid till 2028 \
+**Visa		:**    Valid till 2021 \
+**Resident Address	:**     BLK 104A,  #13-45, Punggol Edgefield plains, Punggol. Singapore - 821104
