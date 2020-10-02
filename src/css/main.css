@@ -30,6 +30,9 @@ h2{
     content: "/>"
   }
 }
+.f-7{
+  font-size: 0.4em;
+}
 
 .f-14{
   font-size: 0.875rem
@@ -45,4 +48,7 @@ h2{
 }
 .f-40{
   font-size: 2.5rem
+}
+span.btn.btn-outline-secondary {
+  padding: .25rem .5rem;
 }
