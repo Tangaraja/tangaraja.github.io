@@ -4,7 +4,8 @@
 @import 'imports/reset.css';
 
 .cv-header{
-  background-color: #F7F8F9;
+  background-color: #545b62;
+  color: #fdfdfd;
 }
 .icon{
   font-size: 3rem
@@ -51,4 +52,14 @@ h2{
 }
 span.btn.btn-outline-secondary {
   padding: .25rem .5rem;
+}
+.btn-outline-secondary-a {
+  color: #fff;
+  border-color: #fff;
+}
+section.odd {
+  background: #f1f1f1;
+}
+section.even {
+  background: #fbfbfb;
 }
