@@ -12,8 +12,8 @@ body{
     text-align: center;
 }
 .profile-img img{
-    width: 50%;
-    height:50%;
+    width: 70%;
+    height:70%;
 }
 .profile-img .file {
     position: relative;
@@ -70,7 +70,7 @@ body{
     border-bottom:2px solid #663300;
 }
 .profile-head .nav-tabs {
-    margin-top: 15%;
+    margin-top: 5%;
 }
 .profile-work{
     padding: 14%;
