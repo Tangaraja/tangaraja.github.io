@@ -34,6 +34,9 @@ body{
 .profile-head h5{
     color: #333;
 }
+.profile-head p{
+    padding-top: 30px;
+}
 /* .profile-head h6{
     color: #0062cc;
 } */
@@ -69,12 +72,12 @@ body{
     color: #c68c53;
     border-bottom:2px solid #663300;
 }
-.profile-head .nav-tabs {
+/* .profile-head .nav-tabs {
     margin-top: 5%;
-}
+} */
 .profile-work{
     padding: 14%;
-    margin-top: -15%;
+    margin-top: -10%;
 }
 .profile-work p{
     font-size: 14px;
@@ -100,6 +103,6 @@ body{
     color: #c68c53;
 }
 
-/* .tab-content {
-    margin-top: 50px;
-} */
+.tab-content {
+    padding-left: 20px;
+}
